@@ -11,7 +11,7 @@ import seaborn as sns
 df = pd.read_csv("WA_Fn-UseC_-HR-Employee-Attrition.csv")
 
 # ------------------------------
-# 2. Initial Data Check
+# 2. Initial Data Checks
 # ------------------------------
 print("Initial Dataset Info:")
 print(df.info())
